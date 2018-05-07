@@ -16,4 +16,5 @@ SideBarEnhancements
 StyleToken
 SublimeLinter
 SublimeLinter-php
+PHPIntel
 VvPHPDollar
