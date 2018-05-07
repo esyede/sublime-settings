@@ -1,0 +1,19 @@
+Package Control
+A File Icon
+AdvancedNewFile
+AutoFileName
+BracketHilighter
+Color Hilighter
+DocBlocker
+Emmet
+GitGutter
+HTML Nest Comments
+HTML Beautify
+Javascript Beautify
+Material Monokai
+Material Theme
+SideBarEnhancements
+StyleToken
+SublimeLinter
+SublimeLinter-php
+VvPHPDollar
