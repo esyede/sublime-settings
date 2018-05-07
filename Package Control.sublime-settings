@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"HTMLBeautify",
+		"Material Monokai",
+		"Material Theme",
+		"Package Control",
+		"PHPIntel",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"VvPHPDollar"
+	]
+}

@@ -1,0 +1,9 @@
+// SublimeLinter Settings - User
+{
+	"paths": {
+        "linux": [],
+        "osx": [],
+        "windows": ["E:/Projects/Webserver/php"]
+    },
+	
+}
